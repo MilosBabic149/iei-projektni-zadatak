@@ -15,6 +15,9 @@ assignees: ''
 * [zapišite sve važne relevantne činjenice koje već znate]
 
 ### Kriterijum prihvatanja
+
+```gherkin
 Dato (imajući u vidu) [neki kontekst, preduslov ili početno stanje]
 Kada [određena akcija bude pokrenuta]
 Onda [rezultat te akcije treba da bude ono što želimo]
+```
