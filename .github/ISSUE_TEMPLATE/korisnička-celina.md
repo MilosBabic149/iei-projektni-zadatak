@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**Kao** [uloga]
-**Potrebno mi je** [ostvarenje određene funkcionalnosti]
-**Kako bi** [se postigao određeni benefit za projekat]
+**Као** [улога]
+**Потребно ми је** [остварење одређене функционалности]
+**Како би** [се постигао одређени бенефит за пројекат]
 
-### Detalji i Pretpostavke
-* [zapišite sve važne relevantne činjenice koje već znate]
+### Детаљи и Претпоставке
+* [запишите све важне релевантне чињенице које већ знате]
 
-### Kriterijum prihvatanja
+### Критеријум прихватања
 
 ```gherkin
-Dato (imajući u vidu) [neki kontekst, preduslov ili početno stanje]
-Kada [određena akcija bude pokrenuta]
-Onda [rezultat te akcije treba da bude ono što želimo]
+Дато (имајући у виду) [неки контекст, предуслов или почетно стање]
+Када [одређена акција буде покренута]
+Онда [резултат те акције треба да буде оно што желимо]
 ```
